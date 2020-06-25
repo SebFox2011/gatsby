@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Lazuryte Agence Web Design`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
+    description: `Nous créons des sites internet ! Offrez-vous un site internet à la hauteur de votre compétence métier.`,
     author: `@Lazuryte`,
   },
   plugins: [
